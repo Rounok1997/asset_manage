@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'base',
     'authentication',
     'rest_framework',
+    'knox',
 ]
 
 MIDDLEWARE = [
